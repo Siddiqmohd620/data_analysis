@@ -1,2 +1,2 @@
 # data_analysis
- Analyze Diwali sales data to improve customer experience and sales
+I did this project using data science modules which are used in python such as  numpy, pandas and seaborn. 
