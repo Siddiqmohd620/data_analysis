@@ -1,2 +1,2 @@
 # data_analysis
-I did this project using data science modules which are used in python such as  numpy, pandas and seaborn. 
+This is a project based on Data Analysis.I used Data Science modules like "numpy, pandas, sea born" in this project. I used python language in this project. I used jupyter notebook for this project.
